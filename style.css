@@ -1028,3 +1028,7 @@
         section:nth-child(3) {
             animation-delay: 0.9s;
         }
+        h1:hover{
+            text-decoration: underline;
+            color:#e73c7e
+        }
